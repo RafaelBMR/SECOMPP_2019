@@ -1,0 +1,1 @@
+Para rodar a aplicação basta executar o comando "python webserver.py" na mesma pasta que o arquivo webserver.py. Você poderá acessar a aplicação em http://localhost:5000, onde basta inserir o endereço local de uma imagem do dataset para ver a predição e as ativações de cada um dos 16 filtros para a imagem de entrada.
